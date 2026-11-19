@@ -1,7 +1,0 @@
-{
-    "java.project.referencedLibraries": [
-        "lib/**/*.jar",
-        "include/bouncyCastle.jar",
-        "include/gson.jar"
-    ]
-}
